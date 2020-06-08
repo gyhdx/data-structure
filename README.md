@@ -1,10 +1,10 @@
-# infos
+# dataStruct
 
-#### 介绍
-Infos后台管理系统，由springboot和layui共同构建
+## 介绍
+学习Java数据结构的学习记录
 
-#### 软件架构
-软件架构说明
+### 1.数组 Array
+Java中最基本的数据结构数组，在代码的（Array）手动实现了一个动态的数组。
 
 
 #### 安装教程
